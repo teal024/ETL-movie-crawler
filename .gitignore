@@ -1,5 +1,3 @@
-/asin_seg_data/*
-
-/crawled_seg_data/*
+/asin_seg_data/movies.txt
 
 .DS_Store
