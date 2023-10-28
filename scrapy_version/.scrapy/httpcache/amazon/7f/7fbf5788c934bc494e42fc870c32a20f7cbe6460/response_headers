@@ -1,0 +1,12 @@
+Content-Type: text/html
+Server: Server
+Date: Mon, 23 Oct 2023 02:44:29 GMT
+X-Amz-Rid: NPZ1KQ2SHTDPCW0055BA
+Vary: Content-Type,Accept-Encoding,User-Agent
+Content-Encoding: gzip
+Strict-Transport-Security: max-age=47474747; includeSubDomains; preload
+X-Cache: Error from cloudfront
+Via: 1.1 a8c2772b03befab22b97b650361ac508.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: SIN52-C3
+Alt-Svc: h3=":443"; ma=86400
+X-Amz-Cf-Id: jok4oknr4eEb69oCOJfsmyPDt1tNaxsUUssx6Wr8dMA09s-ESYPcAw==
