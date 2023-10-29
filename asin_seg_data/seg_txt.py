@@ -2,7 +2,7 @@ import csv
 
 f = open('movies.txt', 'rb')
 movies_list = []
-batch_size = 10000
+batch_size = 4000
 current_batch = 0
 csv_file_counter = 1
 csv_filename = f'csv_{csv_file_counter}.csv'
