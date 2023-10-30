@@ -120,7 +120,7 @@ if __name__ == "__main__":
     # 创建四个进程，每个进程运行一个爬虫实例
     processes = []
 
-    for i in range(1, 5):
+    for i in range(1, 9):
         process = multiprocessing.Process(target=run_crawler, args=(i,))
         processes.append(process)
 
