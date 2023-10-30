@@ -12,8 +12,8 @@ def getProductData(html, asin, i):
         movie_data["title"] = html.xpath('normalize-space(//span[@id="productTitle"]/text())')
         # 电影风格
         genre_list = []
-        genre_list.append(html.xpath('//a[@class="a-link-normal a-color-tertiary"][last()]/text()'))    # 类别
-        genre_list.append(html.xpath('//*[@id="productOverview_feature_div"]/div/table/tbody/tr[1]/td[2]/span/text()')) # 流派
+        genre_list.extend([genre.strip() for genre in html.xpath('//a[@class="a-link-normal a-color-tertiary"][last()]/text()')])    # 类别
+        genre_list.extend([genre.strip() for genre in html.xpath('//*[@id="productOverview_feature_div"]/div/table/tbody/tr[1]/td[2]/span/text()')]) # 流派
         movie_data["genre"] = genre_list
         # 电影版本
         movie_format = html.xpath('//div[@id="bylineInfo"]/span/text()')

@@ -48,14 +48,13 @@ class AmazonCrawler:
         content = self.fetch(url)
         if content:
             html = etree.HTML(content)
-            title = html.xpath('//span[@id="productTitle"]/text()')
+            title = html.xpath('normalize-space(//span[@id="productTitle"]/text())')
             if title:
                 print(title)
                 return getProductData(html, asin, i)
             else:
-                title_element = html.xpath('//*[@id="main"]/div[1]/div/div/div[2]/div[3]/div/div[2]/h1')
-                if title_element:
-                    title = title_element[0].text
+                title = html.xpath('//*[@id="main"]/div[1]/div/div/div[2]/div[3]/div/div[2]/h1/text()')
+                if title:
                     print(title)
                     return getPrimeVideoData(html, asin ,i)
                 else:
@@ -120,7 +119,7 @@ if __name__ == "__main__":
     # 创建四个进程，每个进程运行一个爬虫实例
     processes = []
 
-    for i in range(1, 9):
+    for i in range(1, 2):
         process = multiprocessing.Process(target=run_crawler, args=(i,))
         processes.append(process)
 

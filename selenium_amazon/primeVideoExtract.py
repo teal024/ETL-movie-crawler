@@ -13,7 +13,8 @@ def getPrimeVideoData(html, asin, i):
         # 电影
         movie_data["ASIN"] = asin
         # 电影名称
-        movie_data["title"] = html.xpath('//*[@id="main"]/div[1]/div/div/div[2]/div[3]/div/div[2]/h1')[0].text
+        movie_data["title"] = html.xpath('//*[@id="main"]/div[1]/div/div/div[2]/div[3]/div/div[2]/h1/text()')
+
         script_element = html.xpath('//*[@id="main"]/script[9]')
         if len(script_element):
             script_json = json.loads(script_element[0].text)
@@ -28,7 +29,7 @@ def getPrimeVideoData(html, asin, i):
                 movie_data["genre"] = movie_genre
                     
                 # 电影版本
-                movie_data["version"] = "Prime Video" + script_item['entityType']
+                movie_data["version"] = "Prime Video " + script_item['entityType']
                 # 电影贡献者表（contributers）
                 contributers = script_item['contributors']
                 # 发布日期
