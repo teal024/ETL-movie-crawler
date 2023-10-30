@@ -12,7 +12,7 @@ def handleCaptcha(driver):
         src = soup.find(class_="a-row a-text-center").findChild(name="img").attrs["src"]
         captcha = AmazonCaptcha.fromlink(src)
         solution = captcha.solve(keep_logs=True)
-        print(solution)
+        # print(solution)
         # 输入验证码解决方案
         input_element = driver.find_element(By.ID, "captchacharacters")
         input_element.send_keys(solution)

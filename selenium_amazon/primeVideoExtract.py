@@ -15,9 +15,10 @@ def getPrimeVideoData(html, asin, i):
         # 电影名称
         movie_data["title"] = html.xpath('//*[@id="main"]/div[1]/div/div/div[2]/div[3]/div/div[2]/h1/text()')
 
-        script_element = html.xpath('//*[@id="main"]/script[9]')
+        script_element = html.xpath('//*[@id="main"]/script[9]/text()')
+
         if len(script_element):
-            script_json = json.loads(script_element[0].text)
+            script_json = json.loads(script_element[0])
             script_items = script_json['props']['state']['detail']['btfMoreDetails']
             script_items = list(script_items.values())
             script_item = script_items[0]
@@ -63,7 +64,6 @@ def getPrimeVideoData(html, asin, i):
             
     except Exception:
         print(PRIMEVIDEO_ERROR_ATTR_MSG)
-        print(f"ERROR FILE SEG{i}")
 
     # 返回一个字典
     return movie_data

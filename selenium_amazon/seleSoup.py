@@ -27,6 +27,9 @@ class AmazonCrawler:
         chrome_options.add_argument('--disable-gpu')
         chrome_options.add_argument('--hide-scrollbars')
         chrome_options.add_argument('blink-settings=imagesEnabled=false')
+        
+        chrome_options.add_experimental_option('excludeSwitches', ['enable-logging'])
+        
         self.browser = webdriver.Chrome(options=chrome_options)
         self.browser.set_page_load_timeout(TIMEOUT)
         self.wait = WebDriverWait(self.browser, TIMEOUT)
@@ -119,7 +122,7 @@ if __name__ == "__main__":
     # 创建四个进程，每个进程运行一个爬虫实例
     processes = []
 
-    for i in range(1, 2):
+    for i in range(1, 9):
         process = multiprocessing.Process(target=run_crawler, args=(i,))
         processes.append(process)
 
