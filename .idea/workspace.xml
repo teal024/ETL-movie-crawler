@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="aed1611d-94fd-4ea1-8c1f-d2f55c6a5a27" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/scrapy_version/.scrapy/httpcache/amazon/04/04c5a3eed0e82d375d901949bd8f725cd99ae1ce/meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_version/.scrapy/httpcache/amazon/04/04c5a3eed0e82d375d901949bd8f725cd99ae1ce/pickled_meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_version/.scrapy/httpcache/amazon/04/04c5a3eed0e82d375d901949bd8f725cd99ae1ce/request_body" beforeDir="false" afterPath="$PROJECT_DIR$/integration/integrate.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_version/.scrapy/httpcache/amazon/04/04c5a3eed0e82d375d901949bd8f725cd99ae1ce/request_headers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_version/.scrapy/httpcache/amazon/04/04c5a3eed0e82d375d901949bd8f725cd99ae1ce/response_body" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_version/.scrapy/httpcache/amazon/04/04c5a3eed0e82d375d901949bd8f725cd99ae1ce/response_headers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_version/.scrapy/httpcache/amazon/13/13fb0e56be9cbd19f92335d28358f47d4d0fed7f/meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_version/.scrapy/httpcache/amazon/13/13fb0e56be9cbd19f92335d28358f47d4d0fed7f/pickled_meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_version/.scrapy/httpcache/amazon/13/13fb0e56be9cbd19f92335d28358f47d4d0fed7f/request_body" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_version/.scrapy/httpcache/amazon/13/13fb0e56be9cbd19f92335d28358f47d4d0fed7f/request_headers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_version/.scrapy/httpcache/amazon/13/13fb0e56be9cbd19f92335d28358f47d4d0fed7f/response_body" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_version/.scrapy/httpcache/amazon/13/13fb0e56be9cbd19f92335d28358f47d4d0fed7f/response_headers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_version/.scrapy/httpcache/amazon/6a/6a3e3518ee5b2a6beb32b67948f96eb9a22ac65a/meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_version/.scrapy/httpcache/amazon/6a/6a3e3518ee5b2a6beb32b67948f96eb9a22ac65a/pickled_meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_version/.scrapy/httpcache/amazon/6a/6a3e3518ee5b2a6beb32b67948f96eb9a22ac65a/request_body" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_version/.scrapy/httpcache/amazon/6a/6a3e3518ee5b2a6beb32b67948f96eb9a22ac65a/request_headers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_version/.scrapy/httpcache/amazon/6a/6a3e3518ee5b2a6beb32b67948f96eb9a22ac65a/response_body" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_version/.scrapy/httpcache/amazon/6a/6a3e3518ee5b2a6beb32b67948f96eb9a22ac65a/response_headers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_version/.scrapy/httpcache/amazon/73/73073f8b2802bc2b08282e2d172929d9a1359ca2/meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_version/.scrapy/httpcache/amazon/73/73073f8b2802bc2b08282e2d172929d9a1359ca2/pickled_meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_version/.scrapy/httpcache/amazon/73/73073f8b2802bc2b08282e2d172929d9a1359ca2/request_body" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_version/.scrapy/httpcache/amazon/73/73073f8b2802bc2b08282e2d172929d9a1359ca2/request_headers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_version/.scrapy/httpcache/amazon/73/73073f8b2802bc2b08282e2d172929d9a1359ca2/response_body" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_version/.scrapy/httpcache/amazon/73/73073f8b2802bc2b08282e2d172929d9a1359ca2/response_headers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_version/.scrapy/httpcache/amazon/7f/7fbf5788c934bc494e42fc870c32a20f7cbe6460/meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_version/.scrapy/httpcache/amazon/7f/7fbf5788c934bc494e42fc870c32a20f7cbe6460/pickled_meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_version/.scrapy/httpcache/amazon/7f/7fbf5788c934bc494e42fc870c32a20f7cbe6460/request_body" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_version/.scrapy/httpcache/amazon/7f/7fbf5788c934bc494e42fc870c32a20f7cbe6460/request_headers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_version/.scrapy/httpcache/amazon/7f/7fbf5788c934bc494e42fc870c32a20f7cbe6460/response_body" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_version/.scrapy/httpcache/amazon/7f/7fbf5788c934bc494e42fc870c32a20f7cbe6460/response_headers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_version/.scrapy/httpcache/amazon/8a/8af8298af97244ae51f837fcb3ce59de2514c450/meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_version/.scrapy/httpcache/amazon/8a/8af8298af97244ae51f837fcb3ce59de2514c450/pickled_meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_version/.scrapy/httpcache/amazon/8a/8af8298af97244ae51f837fcb3ce59de2514c450/request_body" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_version/.scrapy/httpcache/amazon/8a/8af8298af97244ae51f837fcb3ce59de2514c450/request_headers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_version/.scrapy/httpcache/amazon/8a/8af8298af97244ae51f837fcb3ce59de2514c450/response_body" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_version/.scrapy/httpcache/amazon/8a/8af8298af97244ae51f837fcb3ce59de2514c450/response_headers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_version/.scrapy/httpcache/amazon/8f/8fd9aa1d3a24d0f278e9bc3642e6dff9f31d8d50/meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_version/.scrapy/httpcache/amazon/8f/8fd9aa1d3a24d0f278e9bc3642e6dff9f31d8d50/pickled_meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_version/.scrapy/httpcache/amazon/8f/8fd9aa1d3a24d0f278e9bc3642e6dff9f31d8d50/request_body" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_version/.scrapy/httpcache/amazon/8f/8fd9aa1d3a24d0f278e9bc3642e6dff9f31d8d50/request_headers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_version/.scrapy/httpcache/amazon/8f/8fd9aa1d3a24d0f278e9bc3642e6dff9f31d8d50/response_body" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_version/.scrapy/httpcache/amazon/8f/8fd9aa1d3a24d0f278e9bc3642e6dff9f31d8d50/response_headers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_version/.scrapy/httpcache/amazon/96/966633c1bce80550c845c526f657a37a4505e770/meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_version/.scrapy/httpcache/amazon/96/966633c1bce80550c845c526f657a37a4505e770/pickled_meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_version/.scrapy/httpcache/amazon/96/966633c1bce80550c845c526f657a37a4505e770/request_body" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_version/.scrapy/httpcache/amazon/96/966633c1bce80550c845c526f657a37a4505e770/request_headers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_version/.scrapy/httpcache/amazon/96/966633c1bce80550c845c526f657a37a4505e770/response_body" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_version/.scrapy/httpcache/amazon/96/966633c1bce80550c845c526f657a37a4505e770/response_headers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_version/.scrapy/httpcache/amazon/a6/a6c927713f7f37b60f013c44e6d480bd5b674320/meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_version/.scrapy/httpcache/amazon/a6/a6c927713f7f37b60f013c44e6d480bd5b674320/pickled_meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_version/.scrapy/httpcache/amazon/a6/a6c927713f7f37b60f013c44e6d480bd5b674320/request_body" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_version/.scrapy/httpcache/amazon/a6/a6c927713f7f37b60f013c44e6d480bd5b674320/request_headers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_version/.scrapy/httpcache/amazon/a6/a6c927713f7f37b60f013c44e6d480bd5b674320/response_body" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_version/.scrapy/httpcache/amazon/a6/a6c927713f7f37b60f013c44e6d480bd5b674320/response_headers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_version/.scrapy/httpcache/amazon/a7/a7981e0e736810f3fd1b1be7b0cfd87af367d4e9/meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_version/.scrapy/httpcache/amazon/a7/a7981e0e736810f3fd1b1be7b0cfd87af367d4e9/pickled_meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_version/.scrapy/httpcache/amazon/a7/a7981e0e736810f3fd1b1be7b0cfd87af367d4e9/request_body" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_version/.scrapy/httpcache/amazon/a7/a7981e0e736810f3fd1b1be7b0cfd87af367d4e9/request_headers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_version/.scrapy/httpcache/amazon/a7/a7981e0e736810f3fd1b1be7b0cfd87af367d4e9/response_body" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_version/.scrapy/httpcache/amazon/a7/a7981e0e736810f3fd1b1be7b0cfd87af367d4e9/response_headers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_version/.scrapy/httpcache/amazon/a7/a7d80a075271c31f69717f3d0e97a892845326bc/meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_version/.scrapy/httpcache/amazon/a7/a7d80a075271c31f69717f3d0e97a892845326bc/pickled_meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_version/.scrapy/httpcache/amazon/a7/a7d80a075271c31f69717f3d0e97a892845326bc/request_body" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_version/.scrapy/httpcache/amazon/a7/a7d80a075271c31f69717f3d0e97a892845326bc/request_headers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_version/.scrapy/httpcache/amazon/a7/a7d80a075271c31f69717f3d0e97a892845326bc/response_body" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_version/.scrapy/httpcache/amazon/a7/a7d80a075271c31f69717f3d0e97a892845326bc/response_headers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_version/.scrapy/httpcache/amazon/ab/ab6efe482e0dd2cf17ba25a0d70dd427b158b4df/meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_version/.scrapy/httpcache/amazon/ab/ab6efe482e0dd2cf17ba25a0d70dd427b158b4df/pickled_meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_version/.scrapy/httpcache/amazon/ab/ab6efe482e0dd2cf17ba25a0d70dd427b158b4df/request_body" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_version/.scrapy/httpcache/amazon/ab/ab6efe482e0dd2cf17ba25a0d70dd427b158b4df/request_headers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_version/.scrapy/httpcache/amazon/ab/ab6efe482e0dd2cf17ba25a0d70dd427b158b4df/response_body" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_version/.scrapy/httpcache/amazon/ab/ab6efe482e0dd2cf17ba25a0d70dd427b158b4df/response_headers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_version/.scrapy/httpcache/amazon/ac/ac5d12895df6410a0bdb4f0a93fdba06564b4333/meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_version/.scrapy/httpcache/amazon/ac/ac5d12895df6410a0bdb4f0a93fdba06564b4333/pickled_meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_version/.scrapy/httpcache/amazon/ac/ac5d12895df6410a0bdb4f0a93fdba06564b4333/request_body" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_version/.scrapy/httpcache/amazon/ac/ac5d12895df6410a0bdb4f0a93fdba06564b4333/request_headers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_version/.scrapy/httpcache/amazon/ac/ac5d12895df6410a0bdb4f0a93fdba06564b4333/response_body" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_version/.scrapy/httpcache/amazon/ac/ac5d12895df6410a0bdb4f0a93fdba06564b4333/response_headers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_version/.scrapy/httpcache/amazon/af/afb04d5c9d62b76716a9a6339b35474dc8184dfa/meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_version/.scrapy/httpcache/amazon/af/afb04d5c9d62b76716a9a6339b35474dc8184dfa/pickled_meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_version/.scrapy/httpcache/amazon/af/afb04d5c9d62b76716a9a6339b35474dc8184dfa/request_body" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_version/.scrapy/httpcache/amazon/af/afb04d5c9d62b76716a9a6339b35474dc8184dfa/request_headers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_version/.scrapy/httpcache/amazon/af/afb04d5c9d62b76716a9a6339b35474dc8184dfa/response_body" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_version/.scrapy/httpcache/amazon/af/afb04d5c9d62b76716a9a6339b35474dc8184dfa/response_headers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_version/.scrapy/httpcache/amazon/c9/c9f05e7607cdb587da734423c719623122fb3bd7/meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_version/.scrapy/httpcache/amazon/c9/c9f05e7607cdb587da734423c719623122fb3bd7/pickled_meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_version/.scrapy/httpcache/amazon/c9/c9f05e7607cdb587da734423c719623122fb3bd7/request_body" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_version/.scrapy/httpcache/amazon/c9/c9f05e7607cdb587da734423c719623122fb3bd7/request_headers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_version/.scrapy/httpcache/amazon/c9/c9f05e7607cdb587da734423c719623122fb3bd7/response_body" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_version/.scrapy/httpcache/amazon/c9/c9f05e7607cdb587da734423c719623122fb3bd7/response_headers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_version/.scrapy/httpcache/amazon/dd/dd549f224e5f029bc052e0ae6a32411b153449e8/meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_version/.scrapy/httpcache/amazon/dd/dd549f224e5f029bc052e0ae6a32411b153449e8/pickled_meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_version/.scrapy/httpcache/amazon/dd/dd549f224e5f029bc052e0ae6a32411b153449e8/request_body" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_version/.scrapy/httpcache/amazon/dd/dd549f224e5f029bc052e0ae6a32411b153449e8/request_headers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_version/.scrapy/httpcache/amazon/dd/dd549f224e5f029bc052e0ae6a32411b153449e8/response_body" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_version/.scrapy/httpcache/amazon/dd/dd549f224e5f029bc052e0ae6a32411b153449e8/response_headers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_version/.scrapy/httpcache/amazon/ef/ef249efc5370115af26cea7628007100a77c5a97/meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_version/.scrapy/httpcache/amazon/ef/ef249efc5370115af26cea7628007100a77c5a97/pickled_meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_version/.scrapy/httpcache/amazon/ef/ef249efc5370115af26cea7628007100a77c5a97/request_body" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_version/.scrapy/httpcache/amazon/ef/ef249efc5370115af26cea7628007100a77c5a97/request_headers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_version/.scrapy/httpcache/amazon/ef/ef249efc5370115af26cea7628007100a77c5a97/response_body" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_version/.scrapy/httpcache/amazon/ef/ef249efc5370115af26cea7628007100a77c5a97/response_headers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_version/amazon_test/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_version/amazon_test/items.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_version/amazon_test/middlewares.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_version/amazon_test/pipelines.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_version/amazon_test/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_version/amazon_test/spiders/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_version/amazon_test/spiders/amazon.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_version/saved.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_version/scrapy.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_version/scrapy.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_version/testSingleSelenium.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium_amazon/output.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium_amazon/seleSoup.py" beforeDir="false" afterPath="$PROJECT_DIR$/selenium_amazon/crawler.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2Xn87IFhrxJ4dKsZBmqttB64it7" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/teal/ETL-movie-crawler&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aed1611d-94fd-4ea1-8c1f-d2f55c6a5a27" name="Changes" comment="" />
+      <created>1699253317107</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1699253317107</updated>
+      <workItem from="1699253318698" duration="4556000" />
+      <workItem from="1699260645127" duration="577000" />
+      <workItem from="1699261579345" duration="538000" />
+      <workItem from="1700290218616" duration="72000" />
+      <workItem from="1700290293322" duration="30000" />
+      <workItem from="1700292254422" duration="1190000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ETL_movie_crawler$seleSoup.coverage" NAME="seleSoup Coverage Results" MODIFIED="1699260241856" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/selenium_amazon" />
+  </component>
+</project>
